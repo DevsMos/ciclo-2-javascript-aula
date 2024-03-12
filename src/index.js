@@ -1,3 +1,5 @@
 var valorA;
 valorFinal = valorA;
-console.log(valorFinal);
+varMoi = "7"
+console.log(varMoi);
+console.log("hello world");
